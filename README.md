@@ -1,3 +1,2 @@
 # helloworld
-first
 learn github
